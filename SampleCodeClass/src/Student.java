@@ -15,6 +15,7 @@ public class Student {
     int SQAT;
     int SEAM;
     int FM;
+
    
     double getAverageMark()
     {
@@ -38,5 +39,9 @@ public class Student {
      System.out.println("Hello");
      return;
 }
+
+	void myTest() {
+		// abcd
+	}
 
 }
