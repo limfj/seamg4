@@ -47,4 +47,8 @@ public class Student {
         System.out.println("hello x2");
     }
 
+    void testing123(){
+        System.out.println("123");
+    }
+
 }
