@@ -42,5 +42,9 @@ public class Student {
     void myTest(){
 	    System.out.println("hello sir");
     }
+    
+    void testAgain(){
+        System.out.println("hello x2");
+    }
 
 }
