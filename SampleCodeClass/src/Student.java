@@ -48,4 +48,8 @@ public class Student {
         System.out.println("hello x2");
     }
 
+    int countAll(){
+	return 0;
+    }
+
 }
